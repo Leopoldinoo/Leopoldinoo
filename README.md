@@ -5,14 +5,11 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/washonrails" target="_blank">
+  <a href="https://github.com/Leopoldinoo" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
-<a href="https://www.instagram.com/washonrails/" target="_blank">
+<a href="https://www.instagram.com/otavio._zs/" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a> 
-<a href="https://www.facebook.com/wallace.henrique.969300" target="_blank">
-  <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
 </a> 
 <a href=https://www.linkedin.com/in/wallace-henrique-b67038203/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
