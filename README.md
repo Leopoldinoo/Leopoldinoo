@@ -1,7 +1,7 @@
 <img align="right" height=120 width=120 alt="Catpuccino gif"  src="https://raw.githubusercontent.com/EdenEast/EdenEast/main/assets/coffee-cat.gif" /> 
                            
 <p align="center">
-  Hi,  im Wallace another programmer.
+  Hi,  im Otavio another programmer.
 </p>
 
 <div align="center">
