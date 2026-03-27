@@ -17,6 +17,12 @@
  
   <br>
   <br>
+
+  <div align="center">
+  <a href="https://milind.bio.link/" >
+    <img src = "http://github-readme-streak-stats.herokuapp.com?user=washonrails&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=DE37C1">
+  </a>
+</div>
   
 <div align="center">
 <p align="center">
