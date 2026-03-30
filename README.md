@@ -33,7 +33,7 @@
   <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
   <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >   
   <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" >
-  <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nextjs.png" >
+  <img align="center" alt="Matheus-Py" height="45" width="50"  src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nextjs.png" >
     <br>
     <br>
 </p>  
