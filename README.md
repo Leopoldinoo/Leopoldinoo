@@ -11,7 +11,7 @@
 <a href="https://www.instagram.com/otavio._zs/" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a> 
-<a href=https://www.linkedin.com/in/wallace-henrique-b67038203/" target="_blank">
+<a href=https://www.linkedin.com/in/wallace-henrique-b6703820/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
  
@@ -25,7 +25,7 @@
 </div>
   
 <div align="center">
-<p align="center">
+<p align="center flex-row">
   <img align="center" alt="Matheus-Cpp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
   <img align="center" alt="Matheus-C" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
   <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
