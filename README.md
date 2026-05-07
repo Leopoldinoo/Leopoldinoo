@@ -32,7 +32,7 @@ Atualmente trabalhando com JavaScript, React/Next.js, Node.js e bancos de dados.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,nodejs,react,tailwindcss" /><br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" /><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github" /><br><br>
   <img src="https://skillicons.dev/icons?i=javascript,figma,notion,git" /><br><br>
 </div>
 
