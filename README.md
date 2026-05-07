@@ -7,11 +7,11 @@
 
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) About me
 
-I am a **Computer Science student** passionate about turning ideas into **solid, scalable, and well-designed digital products**.
+💻 Otávio Leopoldino
 
-I work from **back-end to interface**, always prioritizing **clean architecture**, **code organization**, and **user experience**.
+Programador focado em desenvolvimento web e arquitetura de software. Gosto de transformar ideias em projetos funcionais, organizados e com boa experiência visual.
 
-I am currently developing an app, a complete project that combines a **robust backend**, **mobile application**, and **well-defined UX**, designed as a real-world market product.
+Atualmente trabalhando com JavaScript, React/Next.js, Node.js e bancos de dados.
 
 ---
 
