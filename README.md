@@ -31,10 +31,9 @@ Atualmente trabalhando com JavaScript, React/Next.js, Node.js e bancos de dados.
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Languages & Tools I Have Placed My Hands On
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,latex,react,tailwindcss" /><br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion" /><br><br>
-  <img src="https://skillicons.dev/icons?i=bash,python,javascript,typescript,flutter,figma" /><br><br>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,neovim,emacs" />
+  <img src="https://skillicons.dev/icons?i=php,nodejs,react,tailwindcss" /><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" /><br><br>
+  <img src="https://skillicons.dev/icons?i=javascript,figma,notion,git" /><br><br>
 </div>
 
 ---
