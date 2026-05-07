@@ -15,9 +15,6 @@ I am currently developing an app, a complete project that combines a **robust ba
 
 ---
 
-
----
-
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Tech Stack
 
 <div align="center">
